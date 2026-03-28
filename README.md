@@ -1,7 +1,7 @@
-# Gurgaon-Real-Estate-Market-Analysis
+## Gurgaon-Real-Estate-Market-Analysis
 Performed exploratory data analysis on Gurgaon real estate data to derive actionable insights on pricing, locality comparison, and investment opportunities.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to analyze residential real estate data from Gurgaon and extract meaningful insights that can help buyers, investors, and developers make informed decisions.
 
