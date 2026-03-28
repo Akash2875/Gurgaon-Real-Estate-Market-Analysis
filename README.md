@@ -41,3 +41,28 @@ The analysis aims to answer the following questions:
 8. Which property type is the costliest?
 9. Do certain builders consistently price higher?
 10. Are larger homes more expensive per square foot?
+
+## Process
+
+The project was completed in the following steps:
+
+### 1. Data Loading
+- Loaded dataset using Pandas
+
+### 2. Data Cleaning
+- Standardized column names
+- Removed duplicate records
+- Converted price, area, and rate_per_sqft to numeric values
+- Cleaned categorical columns (status, flat type, RERA approval)
+
+### 3. Data Analysis
+- Used groupby operations to analyze locality, builder, and property trends
+- Identified maximum and average values for key metrics
+
+### 4. Visualization
+- Used Seaborn and Matplotlib for scatter plots:
+  - Area vs Price
+  - Area vs Price per Sqft
+
+### 5. Insight Extraction
+- Interpreted patterns and relationships to derive meaningful conclusions
