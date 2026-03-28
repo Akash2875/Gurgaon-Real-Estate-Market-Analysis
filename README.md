@@ -68,7 +68,7 @@ The project was completed in the following steps:
 - Interpreted patterns and relationships to derive meaningful conclusions
 
   
-  ## Project Insights
+## Project Insights
 
 - Premium localities have significantly higher average prices and price per square foot
 - Ready-to-move properties generally cost more than under-construction properties
@@ -78,3 +78,16 @@ The project was completed in the following steps:
 - Certain builders consistently charge higher rates than others
 - Larger homes are not always more expensive per square foot
 - Area and price show a positive relationship, but not perfectly linear
+
+  ## Final Conclusion
+
+This analysis highlights key factors influencing real estate pricing in Gurgaon.
+
+Location, builder reputation, and regulatory approval (RERA) significantly impact property prices. While larger homes have higher total prices, they do not always offer higher value per square foot.
+
+The insights from this project can help:
+- Buyers choose better investment options
+- Developers understand pricing strategies
+- Investors identify high-value localities
+
+Overall, data-driven analysis plays a crucial role in making informed real estate decisions.
