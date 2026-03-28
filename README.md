@@ -79,7 +79,7 @@ The project was completed in the following steps:
 - Larger homes are not always more expensive per square foot
 - Area and price show a positive relationship, but not perfectly linear
 
-  ## Final Conclusion
+## Final Conclusion
 
 This analysis highlights key factors influencing real estate pricing in Gurgaon.
 
