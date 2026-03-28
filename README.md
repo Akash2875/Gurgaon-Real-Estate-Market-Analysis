@@ -24,3 +24,20 @@ The dataset contains residential property listings from Gurgaon with the followi
 The dataset was cleaned and preprocessed to ensure accurate analysis.
 
 DATASET=<a href="https://github.com/Akash2875/Gurgaon-Real-Estate-Market-Analysis/blob/main/data.csv">Dataset</a>
+
+CODE=<a href="https://github.com/Akash2875/Gurgaon-Real-Estate-Market-Analysis/blob/main/main.py">code<\a>
+
+## ❓ Business Questions
+
+The analysis aims to answer the following questions:
+
+1. Which is the costliest flat in the dataset?
+2. Which locality has the highest average price?
+3. Which locality has the highest rate per square foot?
+4. Do ready-to-move properties cost more than under-construction properties?
+5. Do RERA-approved properties command a price premium?
+6. How does area impact property price?
+7. Which BHK configuration is the most expensive?
+8. Which property type is the costliest?
+9. Do certain builders consistently price higher?
+10. Are larger homes more expensive per square foot?
