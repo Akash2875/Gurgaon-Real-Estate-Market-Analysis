@@ -25,9 +25,9 @@ The dataset was cleaned and preprocessed to ensure accurate analysis.
 
 DATASET=<a href="https://github.com/Akash2875/Gurgaon-Real-Estate-Market-Analysis/blob/main/data.csv">Dataset</a>
 
-CODE=<a href="https://github.com/Akash2875/Gurgaon-Real-Estate-Market-Analysis/blob/main/main.py">code<\a>
+CODE=<a href="https://github.com/Akash2875/Gurgaon-Real-Estate-Market-Analysis/blob/main/main.py">code <\a>
 
-## ❓ Business Questions
+## Business Questions
 
 The analysis aims to answer the following questions:
 
