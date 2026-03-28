@@ -59,6 +59,15 @@ The project was completed in the following steps:
 - Used groupby operations to analyze locality, builder, and property trends
 - Identified maximum and average values for key metrics
 
+### 4. Visualization
+- Used Seaborn and Matplotlib for scatter plots:
+  - Area vs Price
+  - Area vs Price per Sqft
+
+### 5. Insight Extraction
+- Interpreted patterns and relationships to derive meaningful conclusions
+
+  
   ## Project Insights
 
 - Premium localities have significantly higher average prices and price per square foot
@@ -69,11 +78,3 @@ The project was completed in the following steps:
 - Certain builders consistently charge higher rates than others
 - Larger homes are not always more expensive per square foot
 - Area and price show a positive relationship, but not perfectly linear
-
-### 4. Visualization
-- Used Seaborn and Matplotlib for scatter plots:
-  - Area vs Price
-  - Area vs Price per Sqft
-
-### 5. Insight Extraction
-- Interpreted patterns and relationships to derive meaningful conclusions
