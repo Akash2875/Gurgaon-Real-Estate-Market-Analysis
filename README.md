@@ -59,6 +59,17 @@ The project was completed in the following steps:
 - Used groupby operations to analyze locality, builder, and property trends
 - Identified maximum and average values for key metrics
 
+  ## Project Insights
+
+- Premium localities have significantly higher average prices and price per square foot
+- Ready-to-move properties generally cost more than under-construction properties
+- RERA-approved properties tend to have a higher average price, indicating a trust premium
+- Builder reputation plays a major role in property pricing
+- Apartments usually have higher price per square foot compared to floors and plots
+- Certain builders consistently charge higher rates than others
+- Larger homes are not always more expensive per square foot
+- Area and price show a positive relationship, but not perfectly linear
+
 ### 4. Visualization
 - Used Seaborn and Matplotlib for scatter plots:
   - Area vs Price
